@@ -1,5 +1,5 @@
 import { useState } from "react";
-import LocationModal from "../components/LocationModal";
+import LocationModal from "../components/locationModal";
 
 const Home = () => {
     const [click, setClick] = useState(false);
