@@ -6,7 +6,7 @@ import Recommandation from "../components/Recommandation";
 import { getRecommandations } from "../utils/getRecommandation";
 import WeatherType from "../components/WeatherType";
 import Loader from "../components/Loader";
-import LocationModal from "../components/locationModal";
+import LocationModal from "../components/LocationModal";
 
 const Weather = () => {
   const value = useLocation();
